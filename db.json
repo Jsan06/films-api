@@ -7,14 +7,14 @@
       "stock": 3,
       "name": "?",
       "price": 200000,
-      "image": "https://drive.google.com/file/d/1vbKHWUYKaHHnpOG7fkN3v9wuuCqsE_1U/view?usp=sharing",
+      "image": "https://images.unsplash.com/photo-1572188863110-46d457c9234d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fG1vdmllJTIwcG9zdGVyc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "featured": true,
       "colors": [
         "#000",
         "#ff0000"
       ],
       "company": "edellcore",
-      "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. Exercitation dolore tempor nisi minim aliquip id est nulla ad consectetur. Laborum cillum magna incididunt laboris.",
+      "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. ",
       "category": "special gear",
       "shipping": true
     },
@@ -22,7 +22,7 @@
       "id": "recrfxv3EwpvJwvjq",
       "name": "Red Dragon DSMC2",
       "price": 1500000,
-      "image": "https://images.unsplash.com/photo-1553165351-4e2768c9571a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+      "image": "https://images.unsplash.com/photo-1598827510504-b204c095f5cb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bW92aWUlMjBwb3N0ZXJzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "featured": true,
       "colors": [
         "#000",
@@ -37,7 +37,7 @@
       "id": "recoAJYUCuEKxcPSr",
       "name": "Canon EF 16-35 mm f/2.8L",
       "price": 90000,
-      "image": "https://drive.google.com/file/d/1pa6I6u_T3co9Q5Rp6_OAWe7HlZLsiB5j/view?usp=sharing",
+      "image": "https://images.unsplash.com/photo-1581320465488-c3c2edaa893d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
       "featured": true,
       "colors": [
         "#ffb900",
@@ -51,7 +51,7 @@
       "id": "recoAJYUCuEKxcPSr",
       "name": "Canon EF 16-35 mm f/2.8L",
       "price": 90000,
-      "image": "https://drive.google.com/file/d/1pa6I6u_T3co9Q5Rp6_OAWe7HlZLsiB5j/view?usp=sharing",
+      "image": "https://images.unsplash.com/photo-1560405177-47dded9830ea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8bW92aWUlMjBwb3N0ZXJzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "featured": true,
       "colors": [
         "#ffb900",
